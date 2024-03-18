@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/seetsettt/static/css/main.f855e6bc.css",
+    "main.js": "/seetsettt/static/js/main.9ae89540.js",
+    "static/js/453.03fc6c10.chunk.js": "/seetsettt/static/js/453.03fc6c10.chunk.js",
+    "static/media/logo.svg": "/seetsettt/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/seetsettt/index.html",
+    "main.f855e6bc.css.map": "/seetsettt/static/css/main.f855e6bc.css.map",
+    "main.9ae89540.js.map": "/seetsettt/static/js/main.9ae89540.js.map",
+    "453.03fc6c10.chunk.js.map": "/seetsettt/static/js/453.03fc6c10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.9ae89540.js"
+  ]
+}
